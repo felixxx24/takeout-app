@@ -1,6 +1,6 @@
 <template>
     <div class="msite">
-     <headTop title="xx路">
+     <headTop title="xxxx路">
        <span class="header-search" slot="left">
           <i class="iconfont icon-location"></i>
        </span>
