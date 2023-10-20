@@ -1,6 +1,6 @@
 <template>
     <div class="msite">
-     <headTop title="虹口区万安路">
+     <headTop title="xx路">
        <span class="header-search" slot="left">
           <i class="iconfont icon-location"></i>
        </span>
